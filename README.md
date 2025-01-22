@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piljaechae
+ - 👋 Hi, I’m @piljaechae
 - 👀 I’m interested in IaC, K8s, Network 
 
 <!---
